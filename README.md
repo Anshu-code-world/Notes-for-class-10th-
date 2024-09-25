@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Crisis Support Website</title>
+    <title>class 10th notes </title>
 </head>
 <body style="margin: 0; padding: 0; font-family: Arial, sans-serif;">
     <header style="background-color: #333; color: #fff; padding: 10px;">
@@ -51,5 +51,6 @@
     <footer>
         <p></p>
     </footer>
+<marquee>this website under devloping </marquee>
 </body>
 </html>
